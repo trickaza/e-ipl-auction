@@ -3640,9 +3640,12 @@ input[type="button"].btn-block {
     border-style: none;
     height: 200px;
     display:block;
-    padding-left:350px;
+    padding-left:120px;
     padding-right:120px;
-   
+  
+  .containering{
+  padiing-left:19%;
+  }  
 }
 #img-box {
   float:left;
