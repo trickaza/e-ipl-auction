@@ -3635,6 +3635,15 @@ input[type="button"].btn-block {
   a.badge-primary:focus, a.badge-primary.focus {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(227, 0, 89, 0.5); }
+.us {
+    text-align: center;
+    border-style: none;
+    height: 200px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
 
 .badge-secondary {
   color: #fff;
