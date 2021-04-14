@@ -3639,9 +3639,7 @@ input[type="button"].btn-block {
     text-align: center;
     border-style: none;
     height: 200px;
-    margin-right:200px;
-    padding-left:120px;
-    padding-right:120px;
+   
 }
 #img-box1 {
   float:left;
