@@ -3644,6 +3644,7 @@ input[type="button"].btn-block {
 img {
     vertical-align: middle;
     border-style: none;
+    margin-right:200px;
 }
 
 .badge-secondary {
