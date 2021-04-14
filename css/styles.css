@@ -3641,12 +3641,12 @@ input[type="button"].btn-block {
     height: 200px;
     margin-right:200px;
 }
-.img-box {
-    vertical-align: middle;
-    border-style: none;
-    margin-right:200px;
+#img-box1 {
+  float:left;
 }
-
+#img-box2{
+float:right;
+}
 .badge-secondary {
   color: #fff;
   background-color: #1f2d41; }
