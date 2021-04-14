@@ -7416,6 +7416,10 @@ form .row:first-child .floating-label-form-group {
 .pre-wrap {
   white-space: pre-wrap; }
 
+.imgContainer{
+    float:left;
+}
+
 .icon-contact {
   display: flex;
   height: 5rem;
