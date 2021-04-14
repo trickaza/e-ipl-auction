@@ -3640,16 +3640,14 @@ input[type="button"].btn-block {
     border-style: none;
     height: 200px;
     display:block;
-    padding-left:auto;
-    padding-right:auto;
+    padding-left:120px;
+    padding-right:120px;
    
 }
-#img-box1 {
+#img-box {
   float:left;
 }
-#img-box2{
-float:right;
-}
+
 .badge-secondary {
   color: #fff;
   background-color: #1f2d41; }
