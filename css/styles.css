@@ -3648,14 +3648,14 @@ input[type="button"].btn-block {
   } 
   @media only screen and (max-width: 700px) {
   .us{
-    width: 49.99999%;
+    max-width: 49.99999%;
     margin: 6px 0;
   }
 }
 
 @media only screen and (max-width: 500px) {
   .us {
-    width: 100%;
+    max-width: 100%;
   }
 }
 }
