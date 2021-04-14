@@ -3645,7 +3645,19 @@ input[type="button"].btn-block {
   
   .containering{
   padiing-left:15%;
-  }  
+  } 
+  @media only screen and (max-width: 700px) {
+  .containering {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
 }
 #img-box {
   float:left;
