@@ -3641,7 +3641,7 @@ input[type="button"].btn-block {
     height: 200px;
     margin-right:200px;
 }
-img {
+.img-box {
     vertical-align: middle;
     border-style: none;
     margin-right:200px;
