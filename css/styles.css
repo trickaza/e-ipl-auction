@@ -3643,16 +3643,17 @@ input[type="button"].btn-block {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(227, 0, 89, 0.5); }
 .us {
+     display:flex;
+    justify-content: center;
+    align-items:center;
     text-align: center;
     border-style: none;
     height: 200px;
     display:block;
     padding-left:120px;
     padding-right:120px;
-  
-  .us{
-  padiing-left:15%;
-  } 
+}
+ 
   @media only screen and (max-width: 700px) {
   .us{
     max-width: 49.99999%;
