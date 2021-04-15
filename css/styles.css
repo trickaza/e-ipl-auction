@@ -3642,62 +3642,18 @@ input[type="button"].btn-block {
   a.badge-primary:focus, a.badge-primary.focus {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(227, 0, 89, 0.5); }
-img.ri
-{
-	position: absolute;
-	max-width: 80%;
-	top: 10%;
-	left: 10%;
-	border-radius: 3px;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
-}
-img.ri:empty
-{
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate(-50%, -50%);
-	-moz-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	-o-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
-}
-@media screen and (orientation: portrait) {
-  img.ri { max-width: 90%; }
-}
-
-@media screen and (orientation: landscape) {
-  img.ri { max-height: 90%; }
-}
-
 .us {
-     display:flex;
-    justify-content: center;
-    align-items:center;
-    text-align: center;
-    border-style: none;
-    height: 200px;
-    display:block;
-    padding-left:120px;
-    padding-right:120px;
+  text-align: center;
+  border-style: none;
+  height: 200px;
 }
- 
-  @media only screen and (max-width: 700px) {
-  .us{
-    max-width: 49.99999%;
-    margin: 6px 0;
-  }
+.img-box{
+  padding-left: 5%;
 }
-
-@media only screen and (max-width: 500px) {
-  .us {
-    max-width: 100%;
-  }
+.containerimg {
+  padding-left: 19%;
+  padding-bottom: 3%;
 }
-}
-#img-box {
-  float:left;
-}
-
 .badge-secondary {
   color: #fff;
   background-color: #1f2d41; }
