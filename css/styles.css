@@ -181,12 +181,11 @@ img {
   vertical-align: middle;
   border-style: none; }
 
-.logo-image{
-  width: 46px;
-  height: 46px;
+#logo-image{
+  width: 26px;
+  height: 26px;
   
-  overflow: hidden;
-  margin-top: -6px;
+  
 }
 
 svg {
