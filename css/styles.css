@@ -181,6 +181,13 @@ img {
   vertical-align: middle;
   border-style: none; }
 
+#logo-image{
+  
+  height: 66px;
+  
+  
+}
+
 svg {
   overflow: hidden;
   vertical-align: middle; }
@@ -3635,7 +3642,18 @@ input[type="button"].btn-block {
   a.badge-primary:focus, a.badge-primary.focus {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(227, 0, 89, 0.5); }
-
+.us {
+  text-align: center;
+  border-style: none;
+  height: 200px;
+}
+.img-box{
+  padding-left: 5%;
+}
+.containerimg {
+  padding-left: 19%;
+  padding-bottom: 3%;
+}
 .badge-secondary {
   color: #fff;
   background-color: #1f2d41; }
@@ -7415,6 +7433,10 @@ form .row:first-child .floating-label-form-group {
 
 .pre-wrap {
   white-space: pre-wrap; }
+
+.imgContainer{
+    float:left;
+}
 
 .icon-contact {
   display: flex;
